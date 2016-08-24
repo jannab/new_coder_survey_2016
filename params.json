@@ -1,0 +1,6 @@
+{
+  "name": "New coder survey 2016",
+  "tagline": "Predicting Developer Job Chances for Coding Bootcamp Participants",
+  "body": "### About\r\nThis project was my capstone project of the Udacity Machine Learning Engineer Nanodegree (https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).\r\n\r\n### Project Summary\r\nPredicted job chances for bootcamp participants after finishing a bootcamp based on a new coder survey published 2016 by FreeCodeCamp and CodeNewbie.org on kaggle.com.\r\n\r\n### Data\r\nThe \"2016 New Coder Survey\" can be found here: https://www.kaggle.com/freecodecamp/2016-new-coder-survey-.\r\n\r\n### Steps involved\r\n- preprocessed \"2016 New Coder Survey\" dataset\r\n- implemented training and testing data split\r\n- trained a random forest classifier to predict a bootcamp participants job chances\r\n- tweaked parameters of the classifier to reach a F1 score of 0.8832\r\n- visualized most important features that influence whether a bootcamp participant gets a job afterwards\r\n\r\n![Coding Image](https://github.com/jannab/new_coder_survey_2016/blob/master/pexels-photo.jpg?raw=true)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
